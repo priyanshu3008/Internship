@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding = "ISO-8859-1"?>
+<module>
+   <book>
+      <author>Chetan bhagat</author>
+      <title>Five points someone</title>
+      <price>99rs</price>
+      <publish_date>2000-10-01</publish_date>
+    </book>
+
+    <book2>
+      <author>Chetan bhagat</author>
+      <title>Half girlfriend</title>
+      <price>92rs</price>
+      <publish_date>2002-10-05</publish_date>
+    </book2>
+      
+    <book3>
+      <author>Chetan bhagat</author>
+      <title>What young india wants</title>
+      <price>199rs</price>
+      <publish_date>2003-11-05</publish_date>
+    </book3>
+
+    <book4>
+       <author>Chetan bhagat</author>
+      <title>Two states</title>
+      <price>299rs</price>
+      <publish_date>2005-12-08</publish_date>
+    </book4>
+</module>
+
+
+
+
+
+
+
+
+
+
+       

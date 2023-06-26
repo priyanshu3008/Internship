@@ -1,0 +1,14 @@
+.Terms{
+    text-align: center;
+    color:  white;
+    
+}
+
+button{
+     width: fit-content;
+     height: 30px;
+     margin-top: 20px;
+}
+button:hover{
+    color: #72125f;
+}
