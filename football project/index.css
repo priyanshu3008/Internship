@@ -1,0 +1,82 @@
+body{
+margin: 0;
+text-align: center;
+background: #1B244A;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+}
+.homestyle{
+    display: flex;
+width: 149px;
+flex-direction: column;
+flex-shrink: 0;
+color: #EEE;
+text-align: center;
+font-size: 40px;
+font-family: Verdana;
+font-style: normal;
+font-weight: 700;
+line-height: 35.893px;
+}
+
+.gueststyle{
+    display: flex;
+    width: 149px;
+    flex-direction: column;
+    flex-shrink: 0;
+    color: #EEE;
+    text-align: center;
+    font-size: 40px;
+    font-family: Verdana;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 35.893px;
+}
+#home-score{
+    display: flex;
+width: 117px;
+height: 120px;
+flex-direction: column;
+flex-shrink: 0;
+color: #F94F6D;
+text-align: center;
+font-size: 90px;
+font-family: Cursed Timer ULiL;
+font-style: normal;
+font-weight: 400;
+line-height: 126.666px;
+background-color: #080001;
+margin-left: 20px;
+}
+#guest-score{
+    display: flex;
+    width: 117px;
+    height: 120px;
+    flex-direction: column;
+    flex-shrink: 0;
+    color: #F94F6D;
+    text-align: center;
+    font-size: 90px;
+    font-family: Cursed Timer ULiL;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 126.666px;
+    background-color: #080001;
+    margin-left: 20px;
+    }
+
+
+button{
+    border-radius: 5px;
+    border: 2px solid #9AABD8;
+    color: #9AABD8;
+text-align: center;
+font-size: 18px;
+font-family: Cursed Timer ULiL;
+font-style: normal;
+font-weight: 400;
+line-height: 27.812px;
+    
+}
